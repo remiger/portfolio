@@ -1,11 +1,13 @@
 import './Produit.css';
 
-export default function Produit() {
+export default function Produit(props) {
+    // console.log(props);
+    // console.log('Nom du produit ', props.nom)
     return (
         <article className="Produit">
-            <img src="images-produits/prd0002.webp" alt="T-shirt sport GapFit recyclé" />
-            <div className="titre">T-shirt sport GapFit recyclé</div> 
-            <div className="prix">13.95</div>
+            <img src={"images-produits/" + props.pid + ".webp"} alt={props.nom} />
+            <div className="titre">{props.nom}</div> 
+            <div className="prix">{props.prix}</div>
             <button>Ajouter au panier</button>
         </article>
     );
