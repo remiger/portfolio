@@ -1,0 +1,22 @@
+[
+    {
+        "id": "section0001",
+        "nom-img": "web",
+        "nomsection" : "Web",
+        "description" : "Voici un apercu des projets faits en Web",
+        "miniatures" : {
+            "01" : "01",
+            "02" : "02"
+        }
+    },
+    {
+        "id": "section0002",
+        "nom-img": "jeux",
+        "nomsection" : "Jeux",
+        "description" : "Voici un apercu des projets faits en Web",
+        "miniatures" : {
+            "01" : "01",
+            "02" : "02"
+        }
+    }
+]
