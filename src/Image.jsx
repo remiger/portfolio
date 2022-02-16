@@ -3,7 +3,10 @@ import './Image.scss';
 export default function Image(props){
     return (
         <div className="Image">
-            <img src={"images/" + props.nom + ".jpg"} alt=""/>
+            <a href={props.lien} rel="noreferrer" target="_blank">
+                <img src={"images/" + props.nom + ".jpg"} alt=""/>
+            </a>
+            
         </div>
     );
 }

@@ -1,7 +1,7 @@
 {
   "remarque-importante": "Pour publier sur GH Pages, renommer la prochaine prop 'homepage'",
   "homepage-ghpages": "https://582-4PA-H22.github.io/panier-achats",
-  "name": "panier-achats",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

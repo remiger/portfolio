@@ -1,5 +1,4 @@
 import './ListeTravaux.scss';
-import lesTravaux from './data/projets.json';
 import Travail from './Travail';
 
 export default function ListeTravaux(props){
