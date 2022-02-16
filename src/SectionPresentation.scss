@@ -1,4 +1,19 @@
 .SectionPresentation{
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
+
+    h4{
+        max-width: 80%;
+        text-align: center;
+        font-weight: 400;
+        line-height: 1.4;
+    }
+}
+
+// Offset a cause du nav bar
+.SectionPresentation::before{
+    height: 54px;
+    content: "";
 }

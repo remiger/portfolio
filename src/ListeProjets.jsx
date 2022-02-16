@@ -6,7 +6,7 @@ export default function ListeProjets(){
     return (
         <div className="ListeProjets">
             {
-                lesProjets.map(projet => <SectionPresentation key={projet.id} nomsection={projet.nomsection}/>)
+                lesProjets.map(projet => <SectionPresentation key={projet.id} description={projet.description} nomsection={projet.nomsection} travaux={projet.travaux}/>)
             }
         </div>
     );

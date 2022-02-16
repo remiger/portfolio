@@ -1,0 +1,15 @@
+.Travail{
+    display: flex;
+    flex-direction: column;
+    max-width: 30%;
+    min-width: 20%;
+
+    h3{
+        text-align: center;
+    }
+
+    .Image{
+        align-self: center;
+        margin-bottom: 1rem;
+    }
+}

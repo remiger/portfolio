@@ -1,22 +1,89 @@
 [
     {
         "id": "section0001",
-        "nom-img": "web",
         "nomsection" : "Web",
-        "description" : "Voici un apercu des projets faits en Web",
-        "miniatures" : {
-            "01" : "01",
-            "02" : "02"
-        }
+        "description" : "Voici un aperçu des projets ciblés pour le Web. Ils ont principalement contribués à mes connaissances de HTML, CSS, WordPress et Javascript. Récemment, j'en ai appris davantage sur PHP, MySQL et React, pour faire ce portfolio entre autres.",
+        "travaux" : [
+            {
+                "titre" : "Jeu 2D avec JavaScript",
+                "image" : "web01",
+                "resume" : "Jeu en 2D où le joueur doit éviter des attaques et cliquer pour attaquer (attention aux torpilles!)",
+                "langages" : [
+                    "CSS",
+                    "HTML"
+                ],
+                "lien" : "https://remiger.github.io/webA2020-minijeu/",
+                "date" : "Automne 2020"
+            },
+            {
+                "titre" : "Projet refonte complète de site web",
+                "image" : "web02",
+                "resume" : "Refonte à zéro d'un site web avec HTML5, CSS et JavaScript afin de le rendre responsive.",
+                "langages" : [
+                    "CSS",
+                    "HTML",
+                    "Adobe XD"
+                ],
+                "lien" : "https://remiger.github.io/webA2021-refonte/",
+                "date" : "Automne 2021"
+            }
+        ]
     },
     {
         "id": "section0002",
-        "nom-img": "jeux",
         "nomsection" : "Jeux",
-        "description" : "Voici un apercu des projets faits en Web",
-        "miniatures" : {
-            "01" : "01",
-            "02" : "02"
-        }
+        "description" : "Voici un aperçu des projets faits dans les cours de création de jeux vidéo avec Unity.",
+        "travaux" : [
+            {
+                "titre" : "Jeu basic 2J2",
+                "image" : "jeu01",
+                "resume" : "descr jeu 0",
+                "langages" : [
+                    "C#",
+                    "Unity"
+                ],
+                "lien" : "https://remiger.github.io/webA2020-minijeu/",
+                "date" : "H202"
+            },
+            {
+                "titre" : "Jeu insane 3J3",
+                "image" : "jeu02.jpg",
+                "resume" : "descr jeu 1",
+                "langages" : [
+                    "CSS",
+                    "HTML",
+                    "WordPress"
+                ],
+                "lien" : "https://remiger.github.io/webA2020-minijeu/",
+                "date" : "H202"
+            }
+        ]
+    },
+    {
+        "id": "section0003",
+        "nomsection" : "Projets personnels",
+        "description" : "Voici certains projets réalisés dans mon temps libre.",
+        "travaux" : [
+            {
+                "titre" : "Autobot pour simuler cliques de souris et touches de clavier",
+                "image" : "projetperso01",
+                "resume" : "Le but du code est de pouvoir simuler des saisies de clavier et souris à différents endroits voulus. Par exemple, pour faire une même tâche à répétition dans RuneScape.",
+                "langages" : [
+                    "C++"
+                ],
+                "lien" : "https://remiger.github.io/webA2020-minijeu/",
+                "date" : "Projet commencé en 2020 et mis à jour constamment"
+            },
+            {
+                "titre" : "Jeu réalisé au GameJam 2022 de Valleyfield",
+                "image" : "projetperso02",
+                "resume" : "Jeu réalisé en équipe de 5 dans le cadre d'une compétition intercollégiale d'une durée de plus de 40 heures.",
+                "langages" : [
+                    "C#",
+                    "Unity"
+                ],
+                "date" : "Hiver 2022"
+            }
+        ]
     }
 ]

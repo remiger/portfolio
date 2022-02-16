@@ -7,7 +7,7 @@ export default function TitrePrincipal(){
         <section className="TitrePrincipal">
             <h1>Rémi Gervais</h1>
             {
-                <Image nom={"profil"} />
+                <Image nom={"profil"} link="google.ca" />
             }
             <div>
                 <p>Après plusieurs années d'études en différents domaines, c'est en Web que j'ai trouvé ce que j'aime faire. J'ai toujours eu un penchant pour l'informatique, et c'est tout récemment que j'ai trouvé ma branche préférée.</p>
