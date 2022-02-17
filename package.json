@@ -1,6 +1,6 @@
 {
   "remarque-importante": "Pour publier sur GH Pages, renommer la prochaine prop 'homepage'",
-  "homepage": "https://remiger.github.io/portfolio/",
+  "homepage-aaa": "https://remiger.github.io/portfolio/",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,

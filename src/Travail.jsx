@@ -1,6 +1,5 @@
 import Image from './Image';
 import './Travail.scss';
-import TexteDefaut from './TexteDefaut';
 
 export default function Travail(props){
     console.log(props.langages);
