@@ -9,6 +9,7 @@
                 "image" : "web01",
                 "resume" : "Jeu en 2D où le joueur doit éviter des attaques et cliquer pour attaquer (attention aux torpilles!)",
                 "langages" : [
+                    "Visual Studio Code",
                     "CSS",
                     "HTML"
                 ],
@@ -20,6 +21,7 @@
                 "image" : "web02",
                 "resume" : "Refonte à zéro d'un site web avec HTML5, CSS et JavaScript afin de le rendre responsive.",
                 "langages" : [
+                    "Visual Studio Code",
                     "CSS",
                     "HTML",
                     "Adobe XD"
@@ -35,27 +37,28 @@
         "description" : "Voici un aperçu des projets faits dans les cours de création de jeux vidéo avec Unity.",
         "travaux" : [
             {
-                "titre" : "Jeu basic 2J2",
+                "titre" : "Jeu 2D avec Unity",
                 "image" : "jeu01",
-                "resume" : "descr jeu 0",
+                "resume" : "Jeu 2D de type platformer, où le jeu essaie de vous faire rager avec des pièges dissimulés un peu partout!",
                 "langages" : [
+                    "Visual Studio 2019",
                     "C#",
-                    "Unity"
+                    "Unity 2D"
                 ],
-                "lien" : "https://remiger.github.io/webA2020-minijeu/",
-                "date" : "H202"
+                "lien" : "https://jeu.tim.cmaisonneuve.qc.ca/galerie_unity/progAnim/h2021/RemiGervais/index.html",
+                "date" : "Hiver 2021"
             },
             {
-                "titre" : "Jeu insane 3J3",
-                "image" : "jeu02.jpg",
-                "resume" : "descr jeu 1",
+                "titre" : "Jeu 3D avec Unity",
+                "image" : "jeu02",
+                "resume" : "Jeu en 3D où le joueur est dans un petit open world avec quelques quêtes. Goblins et dragons, le joueur ne manque pas de créatures à combattre!",
                 "langages" : [
-                    "CSS",
-                    "HTML",
-                    "WordPress"
+                    "Visual Studio 2019",
+                    "C#",
+                    "Unity 3D"
                 ],
-                "lien" : "https://remiger.github.io/webA2020-minijeu/",
-                "date" : "H202"
+                "lien" : "https://www.google.ca",
+                "date" : "Automne 2021"
             }
         ]
     },
@@ -69,19 +72,22 @@
                 "image" : "projetperso01",
                 "resume" : "Le but du code est de pouvoir simuler des saisies de clavier et souris à différents endroits voulus. Par exemple, pour faire une même tâche à répétition dans RuneScape.",
                 "langages" : [
+                    "Visual Studio 2019",
                     "C++"
                 ],
-                "lien" : "https://remiger.github.io/webA2020-minijeu/",
-                "date" : "Projet commencé en 2020 et mis à jour constamment"
+                "lien" : "https://github.com/remiger/projetperso-emulation",
+                "date" : "Projet commencé en 2020 et mis à jour constamment selon les besoins"
             },
             {
                 "titre" : "Jeu réalisé au GameJam 2022 de Valleyfield",
                 "image" : "projetperso02",
                 "resume" : "Jeu réalisé en équipe de 5 dans le cadre d'une compétition intercollégiale d'une durée de plus de 40 heures.",
                 "langages" : [
+                    "Visual Studio 2019",
                     "C#",
-                    "Unity"
+                    "Unity 3D"
                 ],
+                "lien" : "https://www.google.ca",
                 "date" : "Hiver 2022"
             }
         ]

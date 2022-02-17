@@ -3,13 +3,19 @@
     flex-direction: column;
     max-width: 30%;
     min-width: 20%;
+    text-align: justify;
 
-    h3{
+    h2{
         text-align: center;
     }
 
     .Image{
         align-self: center;
         margin-bottom: 1rem;
+    }
+
+    div:last-of-type{
+        margin-top: auto;
+        font-weight: bold;
     }
 }
