@@ -10,10 +10,11 @@
                 "resume" : "Jeu en 2D où le joueur doit éviter des attaques et cliquer pour attaquer (attention aux torpilles!)",
                 "langages" : [
                     "Visual Studio Code",
-                    "CSS",
+                    "JavaScript (modules)",
                     "HTML"
                 ],
                 "lien" : "https://remiger.github.io/webA2020-minijeu/",
+                "infoimg" : "Cliquez pour jouer",
                 "date" : "Automne 2020"
             },
             {
@@ -27,6 +28,7 @@
                     "Adobe XD"
                 ],
                 "lien" : "https://remiger.github.io/webA2021-refonte/",
+                "infoimg" : "Cliquez pour voir la refonte de la page d'accueil",
                 "date" : "Automne 2021"
             }
         ]
@@ -46,6 +48,7 @@
                     "Unity 2D"
                 ],
                 "lien" : "https://jeu.tim.cmaisonneuve.qc.ca/galerie_unity/progAnim/h2021/RemiGervais/index.html",
+                "infoimg" : "Cliquez pour jouer",
                 "date" : "Hiver 2021"
             },
             {
@@ -58,6 +61,7 @@
                     "Unity 3D"
                 ],
                 "lien" : "https://www.google.ca",
+                "infoimg" : "Cliquez pour télécharger le jeu",
                 "date" : "Automne 2021"
             }
         ]
@@ -76,18 +80,20 @@
                     "C++"
                 ],
                 "lien" : "https://github.com/remiger/projetperso-emulation",
+                "infoimg" : "Cliquez pour voir le code",
                 "date" : "Projet commencé en 2020 et mis à jour constamment selon les besoins"
             },
             {
                 "titre" : "Jeu réalisé au GameJam 2022 de Valleyfield",
                 "image" : "projetperso02",
-                "resume" : "Jeu réalisé en équipe de 5 dans le cadre d'une compétition intercollégiale d'une durée de plus de 40 heures.",
+                "resume" : "Jeu réalisé en équipe de cinq dans le cadre d'une compétition intercollégiale d'une durée de 40 heures.",
                 "langages" : [
                     "Visual Studio 2019",
                     "C#",
                     "Unity 3D"
                 ],
                 "lien" : "https://www.google.ca",
+                "infoimg" : "",
                 "date" : "Hiver 2022"
             }
         ]

@@ -12,7 +12,7 @@
         font-size: clamp(2rem, calc(-1rem + 12vw), 8rem);
     }
 
-    div:last-of-type{
+    &__Introduction{
         width: 60%;
         p{
             text-align: justify;

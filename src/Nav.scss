@@ -1,9 +1,20 @@
 .Nav{
     line-height: 2;
-    border-bottom: 3px solid #444;
+    border-bottom: 3px solid transparent;
+}
+.Nav:hover{
+    color: #73cca8;
 }
 
+.Nav:after{
+    display:block;
+    content: '';
+    border-bottom: solid 3px #73cca8;
+    transform: scaleX(0);
+    transition: transform 0.3s ease-in-out;
+}
 
-.Nav:hover{
-    border-bottom: 3px solid rgb(221, 221, 221);
+.Nav:hover:after { 
+    transform: scaleX(1);
+    transition: transform 0.3s ease-in-out;
 }

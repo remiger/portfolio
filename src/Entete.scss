@@ -1,11 +1,16 @@
 .Entete {
+    *{
+        background-color: #525e65;
+    }
+    background-color: #525e65;
+
+    z-index: 10;
     box-shadow: 3px 3px 5px rgb(12, 12, 12);
     position: sticky;
     top: 0;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #444;
     color: white;
 
     nav {
