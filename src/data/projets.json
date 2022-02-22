@@ -72,7 +72,7 @@
         "description" : "Voici certains projets réalisés dans mon temps libre.",
         "travaux" : [
             {
-                "titre" : "Autobot pour simuler cliques de souris et touches de clavier",
+                "titre" : "Émulation de cliques de souris et touches de clavier",
                 "image" : "projetperso01",
                 "resume" : "Le but du code est de pouvoir simuler des saisies de clavier et souris à différents endroits voulus. Par exemple, pour faire une même tâche à répétition dans RuneScape.",
                 "langages" : [

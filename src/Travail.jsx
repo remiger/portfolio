@@ -5,11 +5,11 @@ export default function Travail(props){
     console.log(props.langages);
     return (
         <div className="Travail">
-            <h2>{props.titre}</h2>
+            <h3>{props.titre}</h3>
             <Image nom={props.image} lien={props.lien} infoimg={props.infoimg}/>
             <div>
                 {props.resume}
-                <h3>Liste des outils/langages utilisés</h3>
+                <h4>Liste des outils/langages utilisés</h4>
                 <ul>
                     {props.langages.map(langage => <li>{langage}</li>)}
                 </ul>

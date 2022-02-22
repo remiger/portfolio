@@ -5,8 +5,14 @@
     min-width: 20%;
     text-align: justify;
 
-    h2{
+    h2, h3{
         text-align: center;
+    }
+
+    h4{
+        text-align: left;
+        font-size: clamp(0.85rem, calc(0.6rem + 1vw), 1.5rem);
+        font-weight: 700;
     }
 
     .Image{
